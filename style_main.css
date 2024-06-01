@@ -2,5 +2,9 @@ body {
     background-color: #f79a24;
     color: #000000;
     font-family: Arial, sans-serif;
-    font-size: 20pt;
+    font-size: 100pt;
+}
+
+a {
+    color: #000000;
 }
